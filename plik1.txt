@@ -1,0 +1,3 @@
+W Pythonie mozna robic wiele fajnych rzeczy.
+W Pythonie mozna wykonywac dzialania matematyczne.
+W Pythonie mozna tworzyc aplikacje i strony www
