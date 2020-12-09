@@ -1,0 +1,2 @@
+Gra: Wiek Pary * Gatunek: euro * Liczba graczy: 5
+Gra: Zamki Burgundii * Gatunek: euro * Liczba graczy: 4
